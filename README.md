@@ -7,5 +7,5 @@ Just a spinning donut
 
 **Execute**
 ```bash
-	source compile_and_config.sh
+source compile_and_config.sh
 ```
