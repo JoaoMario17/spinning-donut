@@ -1,16 +1,19 @@
 # spinning-donut
+
 Just a spinning donut
 
 ![spinningdonut](https://thumbs.gfycat.com/MessyHandmadeDragon-small.gif)
 
-### Configuration
+## Configuration
 
-**Compiling and configuring global script execution**
+### Compiling and configuring global script execution
+
 ```bash
 source compile_and_config.sh
 ```
 
-**Spinning the donut**
+### Spinning the donut
+
 ```bash
 donut
 ```
