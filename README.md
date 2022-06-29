@@ -5,7 +5,12 @@ Just a spinning donut
 
 ### Configuration
 
-**Execute**
+**Compiling and configuring global script execution**
 ```bash
 source compile_and_config.sh
+```
+
+**Spinning the donut**
+```bash
+donut
 ```
